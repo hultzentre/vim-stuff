@@ -1,0 +1,20 @@
+syntax on
+filetype plugin indent on
+set relativenumber
+set backspace=indent,eol,start
+set incsearch
+set ignorecase
+set smartcase
+set hlsearch
+set nowrap
+set autoindent
+set expandtab
+set smarttab
+set tabstop=4
+set shiftwidth=4
+set scrolloff=2
+set titlestring=%t
+set title
+set ruler
+set nobackup
+set history=99
